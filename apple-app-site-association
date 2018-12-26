@@ -5,6 +5,10 @@
     {
       "appID": "S8DW3QU22E.com.simplanum",
       "paths": ["*"]
+    }, 
+    {
+                "appID": "KDW4TVY592.com.simplanum",
+                "paths": [ "*" ]
     }
     ]
   }
